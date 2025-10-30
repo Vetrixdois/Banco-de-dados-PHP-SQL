@@ -19,7 +19,7 @@ $usuarios = $stmt->fetchAll();
 <head>
   <meta charset="utf-8">
   <title>Lista de Usuários</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assests/css/style/style.css">
 </head>
 <body>
 <div class="container">
@@ -77,6 +77,6 @@ $usuarios = $stmt->fetchAll();
 
 </div>
 
-<script src="assets/js/scripts.js"></script>
+<script src="assests/js/script.js"></script>
 </body>
 </html>

@@ -28,11 +28,11 @@ Permite cadastrar, listar, editar e excluir usuários, apresentando uma interfac
 ├─ editar.php           # Página e lógica de edição de usuários
 ├─ deletar.php          # Lógica de exclusão de usuários
 │
-├─ assets/
+├─ assests/
 │   ├─ css/
-│   │   └─ style.css    # Folha de estilos do projeto
+│   │   └─ style/style.css    # Folha de estilos do projeto
 │   └─ js/
-│       └─ scripts.js   # Funções JavaScript (confirmação de exclusão, etc.)
+│       └─ script.js          # Funções JavaScript (confirmação de exclusão, etc.)
 │
 └─ README.md            # Este arquivo de documentação
 
